@@ -16,23 +16,23 @@ global.APIKeys = {
 }
 
 // Owner
-global.owner = ['6283808840711','6283808840711','6283184072215']
-global.ownernomer = '6283808840711'
-global.premium = ['6283808840711']
-global.ownername = 'KIKI VZ'
-global.botname = 'VraaBotz'
-global.footer = 'VZ TEAM'
+global.owner = ['6289678921694','6289678921694','6283184072215']
+global.ownernomer = '6289678921694'
+global.premium = ['6289678921694']
+global.ownername = 'putra no counter'
+global.botname = 'Putraa'
+global.footer = 'putra no counter'
 global.email = 'vraakeren@gmail.com'
 global.ig = 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ'
 global.region = 'jepang'// bebas
 
 // Keperluan buttons
 global.myweb = 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ'
-global.sc = 'https://github.com/kikivz/vraabot-MD'
+global.sc = 'github.com/kikivz/vraabot-MD'
 global.grupowner ='https://chat.whatsapp.com/JOxS05d1WWO529F40SEVEa'// GRUP LU 
 // Wm
-global.packname = 'kiki'//BEBAS
-global.author = 'vz'
+global.packname = 'putraa'//BEBAS
+global.author = 'keren'
 
 // Thumb & Image random
 global.thumb = fs.readFileSync('./image/kiki.jpg')// jangan di ubah nanti eror
