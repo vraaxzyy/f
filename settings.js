@@ -16,7 +16,7 @@ global.APIKeys = {
 }
 
 // Owner
-global.owner = ['6289678921694','6289678921694','6283184072215']
+global.owner = ['6289678921694','6289678921694','6281563191025']
 global.ownernomer = '6289678921694'
 global.premium = ['6289678921694']
 global.ownername = 'putra no counter'
